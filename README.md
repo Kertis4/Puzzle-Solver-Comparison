@@ -29,7 +29,7 @@ The program performs multiple simulations and tracks:
 - Adjustable puzzle size (default: 3x3)
 - Adjustable shuffle depth to vary puzzle complexity
 - Configurable number of simulation runs (default: 1000)
-- Performance tracking (time and move count)
+- Performance tracking (time and state count)
 - Histograms to compare algorithm performance
 
 ## Requirements
